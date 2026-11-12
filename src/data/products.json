@@ -1,0 +1,23 @@
+[
+  {
+    "id": "PROD04",
+    "name": "Sổ Tay Bìa Da Cao Cấp",
+    "price": 120000,
+    "category": "Văn phòng phẩm",
+    "description": "Sổ tay bìa da PU chống nước, giấy ford 100gsm chống lóa và không lem mực. Thiết kế sang trọng thích hợp làm quà tặng hoặc ghi chép công việc."
+  },
+  {
+    "id": "PROD05",
+    "name": "Kem Chống Nắng Quang Phổ Rộng SPF50+",
+    "price": 350000,
+    "category": "Mỹ phẩm",
+    "description": "Bảo vệ da toàn diện trước tia UVA/UVB, chất kem mỏng nhẹ thẩm thấu nhanh không gây bết dính. Phù hợp cho mọi loại da kể cả da nhạy cảm."
+  },
+  {
+    "id": "PROD06",
+    "name": "Hạt Điều Rang Muối Bình Phước 500g",
+    "price": 180000,
+    "category": "Thực phẩm",
+    "description": "Hạt điều nguyên hạt loại 1 to tròn, giòn rụm, rang củi thủ công giữ nguyên hương vị đặc trưng. Đóng gói trong túi zip tiện lợi bảo quản."
+  }
+]
